@@ -1,6 +1,3 @@
-Here is a `README.md` file that corresponds to the project description you've provided:
-
-```markdown
 # Brain Tumor Classification Using Deep Learning
 
 ## Overview
