@@ -130,5 +130,3 @@ Ensure you have appropriate rights to use the dataset for academic and non-comme
  ![Streamlit Web App](images/3.png)
  ---
 ```
-
-This `README.md` provides a comprehensive overview of your project, its functionality, and how to run the code, along with descriptions of the models and tools used. You can modify it as needed to fit your project or personal preferences.
